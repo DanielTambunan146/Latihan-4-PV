@@ -1,0 +1,7 @@
+C:\Users\user\Documents\SharpDevelop Projects\Latihan4\Latihan4\bin\Debug\Latihan4.exe
+C:\Users\user\Documents\SharpDevelop Projects\Latihan4\Latihan4\bin\Debug\Latihan4.pdb
+C:\Users\user\Documents\SharpDevelop Projects\Latihan4\Latihan4\obj\Debug\Latihan4.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\SharpDevelop Projects\Latihan4\Latihan4\obj\Debug\Latihan4.MainForm.resources
+C:\Users\user\Documents\SharpDevelop Projects\Latihan4\Latihan4\obj\Debug\Latihan4.csproj.GenerateResource.Cache
+C:\Users\user\Documents\SharpDevelop Projects\Latihan4\Latihan4\obj\Debug\Latihan4.exe
+C:\Users\user\Documents\SharpDevelop Projects\Latihan4\Latihan4\obj\Debug\Latihan4.pdb

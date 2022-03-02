@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.4
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Latihan4_materi", "Latihan4_materi\Latihan4_materi.csproj", "{49053949-82AE-40CA-8670-B9C4F76BC301}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49053949-82AE-40CA-8670-B9C4F76BC301}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49053949-82AE-40CA-8670-B9C4F76BC301}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49053949-82AE-40CA-8670-B9C4F76BC301}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49053949-82AE-40CA-8670-B9C4F76BC301}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+EndGlobal

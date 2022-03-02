@@ -1,0 +1,7 @@
+C:\Users\user\Documents\SharpDevelop Projects\Latihan4_materi\Latihan4_materi\obj\Debug\Latihan4_materi.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\SharpDevelop Projects\Latihan4_materi\Latihan4_materi\obj\Debug\Latihan4_materi.MainForm.resources
+C:\Users\user\Documents\SharpDevelop Projects\Latihan4_materi\Latihan4_materi\obj\Debug\Latihan4_materi.csproj.GenerateResource.Cache
+C:\Users\user\Documents\SharpDevelop Projects\Latihan4_materi\Latihan4_materi\bin\Debug\Latihan4_materi.exe
+C:\Users\user\Documents\SharpDevelop Projects\Latihan4_materi\Latihan4_materi\bin\Debug\Latihan4_materi.pdb
+C:\Users\user\Documents\SharpDevelop Projects\Latihan4_materi\Latihan4_materi\obj\Debug\Latihan4_materi.exe
+C:\Users\user\Documents\SharpDevelop Projects\Latihan4_materi\Latihan4_materi\obj\Debug\Latihan4_materi.pdb
